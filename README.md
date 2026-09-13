@@ -3,6 +3,8 @@
 一个 Windows 桌面小工具，把 **包管理 + 版本管理 + 环境管理** 装进一个界面。
 纯标准库实现（Tkinter + subprocess），**零第三方依赖**，无需安装任何库即可运行。
 
+**📦 下载最新版（.exe，免安装 Python，双击即用）：** [GitHub Releases](https://github.com/joozho/python-manager/releases/latest) → 下载 `PythonManager.exe`
+
 ## 功能
 
 | 模块 | 功能 |
@@ -17,7 +19,7 @@
 
 **三种方式任选：**
 
-1. **双击 `dist\Python管理器.exe`**（已打包好的单文件，无需安装 Python，11MB）
+1. **下载并运行最新版 exe**（无需安装 Python）：[GitHub Releases](https://github.com/joozho/python-manager/releases/latest) → `PythonManager.exe`
 2. **双击 `start.bat`**（需本机装有 Python）
 3. 在本目录执行 `python main.py`
 
