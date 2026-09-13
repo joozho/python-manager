@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+
+# 本地虚拟环境
+venvs/
+
+# 本地日志
+error.log
